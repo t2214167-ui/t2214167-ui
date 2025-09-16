@@ -30,5 +30,4 @@ I am a beginner trying to learn programming. I enjoy exploring new coding skills
 - Creating forms
 
 ## Contact Me
-- Email: margaret-njeri@example.com
-- GitHub: [https://github.com/t2214167-ui](https://github.com/t2214167-ui)
+- GitHub: https://github.com/t2214167-ui
