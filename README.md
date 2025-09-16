@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: love watching movies 
--->
+-->##  about me
+I am a beginner trying to learn programming 
+## learning goals and interest
+learning JavaScript, html,css and. more
+## Technology and languages
+JavaScript,html,css
+## current project 
+creating forms 
+##contact me
+https://github.com/t2214167-ui/t2214167-ui
