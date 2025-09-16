@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: love watching movies 
--->## About Me
+-->
+
+## About me 
 I am a beginner trying to learn programming. I enjoy exploring new coding skills and applying them to small projects.
 
 ## Learning Goals and Interests
